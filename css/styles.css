@@ -3607,7 +3607,7 @@ input[type="button"].btn-block {
   background-color: #09a59a; }
   a.badge-primary:hover, a.badge-primary:focus {
     color: #fff;
-    background-color: #148f77; }
+    background-color: #09a59a; }
   a.badge-primary:focus, a.badge-primary.focus {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(26, 188, 156, 0.5); }
@@ -4701,7 +4701,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important; }
+  background-color: #09a59a !important; }
 
 /* Farbe oben leiste */
 
