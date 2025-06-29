@@ -7716,6 +7716,6 @@ body.darkmode #tools-expertise {
 }
 
 body.darkmode #tools-expertise img {
-  filter: drop-shadow(0 0 3px #fff);
+  filter: drop-shadow(0 0 5px #fff);
   transition: filter 0.5s;
 }
